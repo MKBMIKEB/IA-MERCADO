@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# data files
+/data/raw/*
+/data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# env
+.env
+
+# frontend build
+frontend/node_modules/
+frontend/dist/
+
+# others
+.DS_Store
