@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+requests
+beautifulsoup4
+geopy
+scikit-learn
+joblib
+python-dotenv
+pydantic-settings
